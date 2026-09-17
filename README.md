@@ -4,7 +4,8 @@
 
 ## 🌐 Live Portfolio
 
-[View Live Portfolio](https://jessicarozario22.github.io/Jessica-Mary-Rozario/)
+[View Live Portfolio]([https://jessicarozario22.github.io/Jessica-Mary-Rozario/](https://jessicamaryrozario.netlify.app/))
+[View Live Portfolio]()
 
 ## 📖 About the Project
 
